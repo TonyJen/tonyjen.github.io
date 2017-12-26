@@ -13,10 +13,10 @@ h2,h3{
   text-transform:uppercase;
 }
 a{
-  color:#722872;
+  color:#176494;
 }
 a:hover,a:focus{
-    color:#592059;
+    color:#176494;
   }
 #banner .container, 
 main header, 
@@ -38,11 +38,11 @@ footer #footer-above{
   margin:0 auto; 
 }
 #banner{
-  background-color:#722872 !important;
+  background-color:#176494 !important;
   height:80px;
   -webkit-box-shadow:0px 2px 2px 1px rgba(0, 0, 0, 0.2);
           box-shadow:0px 2px 2px 1px rgba(0, 0, 0, 0.2);
-  border-color:#592059;
+  border-color:#176494;
 }
 #banner .container{
     width:95%;
@@ -63,7 +63,7 @@ footer #footer-above{
   }
 nav{
   font-size:13px;
-  background:#722872;
+  background:#176494;
   -webkit-transition:all .3s;
   transition:all .3s;
 }
@@ -75,7 +75,7 @@ nav{
     width:120%
 }
     nav .active a{
-      color:#722872;
+      color:#176494;
       background:#bbb;
       -webkit-box-shadow:0px 2px 2px 1px rgba(0, 0, 0, 0.1);
               box-shadow:0px 2px 2px 1px rgba(0, 0, 0, 0.1);
@@ -95,7 +95,7 @@ nav{
       padding:10px 20px;
     }
 .nav>li a:hover{
-        color:#722872;
+        color:#176494;
         background:#bbb;
         -webkit-box-shadow:0px 2px 2px 1px rgba(0, 0, 0, 0.1);
                 box-shadow:0px 2px 2px 1px rgba(0, 0, 0, 0.1);
@@ -248,7 +248,7 @@ form .row:first-child .form-item{
       color:#aaa;
     }
 .form-item-focused label{
-      color:#722872;
+      color:#176494;
     }
 footer{
   color:#fff;
@@ -279,7 +279,7 @@ footer h3{
     -webkit-box-shadow:0px 0px 1px 1px rgba(0, 0, 0, 0.2);
             box-shadow:0px 0px 1px 1px rgba(0, 0, 0, 0.2);
     padding:25px 0;
-    background-color:#722872;
+    background-color:#176494;
     text-align:center;
   }
 .button{
@@ -297,7 +297,7 @@ footer h3{
 }
 .button:hover{
     border:solid 2px #fff;
-    color:#722872;
+    color:#176494;
     background:#fff;
   }
 .scroll-top{
@@ -307,12 +307,12 @@ footer h3{
   bottom:2%;right:2%;
 }
 .scroll-top a{
-    background:#722872;  
+    background:#176494;  
   }
 .scroll-top a:hover, .scroll-top a:focus{
-      color:#722872;
+      color:#176494;
       background-color:#bbb;
-      border-color:#722872;
+      border-color:#176494;
     }
 @media(min-width:768px){
 .scroll-top a{
