@@ -44,7 +44,7 @@ $(window)
           }
         }
         wScrollBefore = wScrollCurrent;
-      } else element.style.top = "0px"; //
+      }
     });
   })
   .resize();
