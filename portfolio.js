@@ -11,7 +11,6 @@ $(window)
       wScrollDiff = 0;
     window.addEventListener("scroll", function() {
       // Hide the displayed menu. If you want to scroll, you're obviously not interested in the options.
-      $(".navbar-collapse").collapse("hide");
       $(".navbar-toggle")
         .addClass("collapsed")
         .blur();
@@ -64,8 +63,6 @@ $(function() {
     });
 });
 
-// Highlight the top nav as scrolling occurs
-$("body").scrollspy({ target: ".navbar-fixed-top" });
 
 // Closes the Responsive Menu on Menu Item Click
 $(".navbar-collapse ul li a").click(function() {
