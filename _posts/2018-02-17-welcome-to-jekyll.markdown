@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Blockchain"
 date:   2018-02-17 00:14:52 -0500
-categories: jekyll update
+categories: blockchain
 ---
 
 I've writen an article on Blockchain what I hope would be useful to you. Please check it out. [Blockchain, what is it all about?]
