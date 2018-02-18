@@ -9,6 +9,6 @@ While creating a blockchain, I had to create web servers and also using Express 
 
 Express is a framework that sits on top of Nodejs. It behaves like a web interface for application to hook into. 
 
-![image-title-here](/_images/Express Server.png){:class="img-responsive"}
+![Express Diagram](/assets/Express Server.png){:class="img-responsive"}
 
 
