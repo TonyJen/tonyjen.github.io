@@ -5,9 +5,9 @@ date:   2018-02-17 00:14:52 -0500
 categories: express
 ---
 
-While creating a blockchain, I had to create web servers and also using Express for Node. That got me thinking that I should explain the basics of Express web server. 
+While creating a blockchain, I had to create web servers using Express for Node. That got me thinking that I should explain the basics of Express web server. 
 
-Express is a framework that sits on top of Nodejs. It behaves like a web interface for application to hook into. 
+Express is a framework that sits on top of Nodejs. It behaves like a REST web interface for application to serve requests from the client.
 
 ![Express Diagram](/assets/Express Server.png){:class="img-responsive"}
 
