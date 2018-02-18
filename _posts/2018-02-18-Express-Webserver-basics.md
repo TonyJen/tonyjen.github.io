@@ -11,4 +11,10 @@ Express is a framework that sits on top of Nodejs. It behaves like a web interfa
 
 ![Express Diagram](/assets/Express Server.png){:class="img-responsive"}
 
+Here is a basic express route with a get and post route.
 
+<script src="https://gist.github.com/TonyJen/f7e1dc40b4ba2e8c7e47f4a01b56fff7.js"></script>
+
+Notice req is the request package send to the web server and res is the response return from the server.
+
+So that is how a basic Express server works, adding to this, we can then add routes and create the Blockchain application from this setup.
