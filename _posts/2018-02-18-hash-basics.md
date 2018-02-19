@@ -5,7 +5,7 @@ date:   2018-02-17 00:14:52 -0500
 categories: blockchain
 ---
 
-Hashing in blocks is the corner stone in a blockchain application. A hash function creates data from user data. The special thing is that the created data is of consistent length, which makes compare easy. 
+Hashing in blocks is the corner stone in a blockchain application. A hash function creates data from user data. The special thing is that the created data is of consistent length, which makes comparing easy. 
 
 Whether a data is a single character or a novel, the resulting hash is the same length. This have one key advantage, which is to make sure the data integrety is consistent across blocks and users. 
 
