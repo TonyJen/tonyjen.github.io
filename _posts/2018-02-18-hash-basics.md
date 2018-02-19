@@ -13,4 +13,4 @@ In node we can use a library called cryto-js, and a simple example is the follow
 
 <script src="https://gist.github.com/TonyJen/7d01576b7f319f5f7fa70782ec3376f3.js"></script>
 
-SHA256 is the function that takes any data and returns a hash. There you have it, a simple explaination of what a hash is and how to use it.
+SHA256 is the function that takes any data and returns a hash. There you have it, a simple explaination of what a hash is and how to use it. 
