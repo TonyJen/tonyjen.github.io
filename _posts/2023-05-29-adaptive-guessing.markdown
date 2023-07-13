@@ -43,5 +43,3 @@ Adaptive guessing requires a combination of critical thinking, data analysis, an
 Adaptive guessing is a powerful approach that allows you to make educated predictions by continuously adjusting and refining your guesses based on new information and feedback. By embracing this iterative process, you can improve the accuracy of your estimations, gain valuable insights, and adapt to changing circumstances. Whether you're tackling complex problems or navigating uncertain situations, adaptive guessing equips you with a valuable tool for making informed decisions.
 
 Try incorporating adaptive guessing into your decision-making process and witness the benefits of its continuous refinement firsthand.
-
-*This blog post is published on [Tony Jen's Blog](https://tonyjen.github.io/). Feel free to share your thoughts and experiences with adaptive guessing in the comments section below.*
