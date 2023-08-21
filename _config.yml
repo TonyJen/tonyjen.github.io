@@ -21,7 +21,7 @@
 title: Tony Jen's Blog
 email: tonyjen0905@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is to express different ideas and also test out my ideas.
+  This blog is to express and test out my ideas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "tonyjen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tonyjen75
