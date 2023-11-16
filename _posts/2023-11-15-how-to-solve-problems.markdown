@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Solve Problems: A Comprehensive Guide"
-date: 2023-11-16
+date: 2023-11-15
 author: Tony Jen
 categories: Problem-Solving
 tags: guide, problem-solving, strategies
