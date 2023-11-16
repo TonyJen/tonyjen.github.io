@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Celebrating Small Victories: A Guide to Acknowledging Your Successes"
-date: 2023-11-15
+date: 2023-11-16
 author: Tony Jen
 categories: [Self-Improvement, Motivation]
 ---
