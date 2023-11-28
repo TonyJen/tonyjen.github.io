@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How to Debug Programs: A Comprehensive Guide"
+title: "Debugging Programs"
 date: 2023-09-24
 author: Tony Jen
 categories: [Programming, Debugging, Development]
 ---
 
-# How to Debug Programs: A Comprehensive Guide
+# Debugging Programs
 
 ## Introduction
 

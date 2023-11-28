@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "How to Solve Problems: A Comprehensive Guide"
+title: "Solving Problems"
 date: 2023-11-15
 author: Tony Jen
 categories: Problem-Solving
 tags: guide, problem-solving, strategies
 ---
 
-# How to Solve Problems: A Comprehensive Guide
+# Solving Problems
 
 In this blog post, we will journey through a step-by-step guide on how to effectively solve problems. Tackling problems may seem daunting, but with a structured approach, you can navigate this with ease and confidence.
 
