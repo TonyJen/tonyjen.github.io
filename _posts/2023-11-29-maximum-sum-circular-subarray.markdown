@@ -36,6 +36,7 @@ The solution hinges on a key insight: the maximum circular subarray sum can be e
 ## Python Implementation
 
 ```python
+
 def maxSubarraySumCircular(nums):
     def kadane(gen):
         ans = cur = float('-inf')
@@ -51,7 +52,7 @@ def maxSubarraySumCircular(nums):
 
     return max(max_sum, total + min_sum, total + min_sum2) if max_sum > 0 else max_sum
 
-print(maxSubarraySumCircular([5, -3, 5]))  # Output: 10
+    print(maxSubarraySumCircular([5, -3, 5]))  # Output: 10
 
 
 Conclusion
