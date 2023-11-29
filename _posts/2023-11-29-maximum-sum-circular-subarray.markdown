@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Coding Challenge: Maximum Sum Circular Subarray"
-date: YYYY-MM-DD HH:MM:SS
-categories: coding, algorithms, leetcode
+date: 2023-11-29
+categories: coding, algorithms
+author: [Tony Jen]
 ---
 
 # Maximum Sum Circular Subarray
