@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Physics Way of Thinking: A Deep Dive into First Principles"
+title: "A Deep Dive into First Principles"
 date: 2023-11-29
 categories: physics, innovation, elon-musk
 author: [Tony Jen]

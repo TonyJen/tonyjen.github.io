@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Physics Way of Thinking: Unraveling the Mysteries of the Universe"
+title:  "The Physics Way of Thinking"
 date:   2023-11-30
 categories: physics, science, philosophy
 author: [Tony Jen]
