@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solving the Array Element Parity Problem"
-date: 2023-12-03
+date: 2023-12-15
 categories: coding algorithm
 author: [Tony Jen]
 ---
