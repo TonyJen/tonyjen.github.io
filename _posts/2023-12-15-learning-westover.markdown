@@ -50,7 +50,8 @@ print(singleNumber([2, 2, 1]))        # Output: 1
 ```
 
 This solution has a time complexity of O(n) and a space complexity of O(1), which makes it quite efficient for large arrays.
-Conclusion
+
+### Conclusion
 
 The Array Element Parity problem is a great example of how a simple bitwise operation can be incredibly powerful in solving seemingly complex problems. It's a reminder that sometimes, the most efficient solutions are also the most elegant.
 
