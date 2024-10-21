@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adaptive Guessing"
-date:   2023-05-29 23:31:25 -0400
+date:   2023-05-29
 categories: Education
 ---
 # Adaptive Guessing: Making Educated Predictions Through Continuous Refinement
